@@ -1,8 +1,7 @@
 this is a test file.
-
+******************************
 this is a test file.
 this is a test file.
 this is a test file.
-this is a test file.
-this is a test file.
-this is a test file.
+*********************************
+Actually git might be a useful tool.
