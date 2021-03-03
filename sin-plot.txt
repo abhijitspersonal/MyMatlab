@@ -1,0 +1,6 @@
+Plot[Sin[x],{x,0,π},PlotStyle->Green]
+
+Plot[Cos[x],{x,0,π/2},PlotStyle->Orange]
+
+In[1]:= Integrate[Sin[x],{x,0,π/2}]
+Out[1]= 1
